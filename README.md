@@ -12,6 +12,7 @@
 ## Description
 
 This project provides a full-stack solution for predicting property prices in Belgium using a machine learning model deployed in a Streamlit app for predicting real estate prices in Belgium. The app allows users to input property details, such as the number of rooms, area, and location, to predict the estimated price of a property.
+By leveraging a trained linear regression model, the app makes real-time price predictions.
 
 ## Installation
 
