@@ -22,15 +22,15 @@ By leveraging a trained linear regression model, the app makes real-time price p
 
    - pip install -r requirements.txt
 
-   - Ensure that the requirements.txt file includes the following libraries:
+   - --Ensure that the requirements.txt file includes the following libraries:
 
-   - streamlit
+     - streamlit
 
-   - pandas
+     - pandas
 
-   - joblib
+     - joblib
 
-   - scikit-learn
+     - scikit-learn
 
 3. Train the Model:
 
